@@ -1,3 +1,9 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [Form1.cs](./CS/Form1.cs) (VB: [Form1.vb](./VB/Form1.vb))
+* [MyPaintStyle.cs](./CS/MyPaintStyle.cs) (VB: [MyPaintStyle.vb](./VB/MyPaintStyle.vb))
+<!-- default file list end -->
 # How to draw the DockPanel Tab header with a custom Color when Skin is used
 
 
